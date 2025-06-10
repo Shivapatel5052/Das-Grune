@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shivapatel5052.github.io/Das-Grune/sitemap.xml
